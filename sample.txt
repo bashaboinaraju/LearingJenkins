@@ -1,1 +1,0 @@
-a -jar jenkins-cli.jar -s http://<jenkins-host>:8080 -auth <username>:<api_token> install-plugin maven-plugin junit --restart
